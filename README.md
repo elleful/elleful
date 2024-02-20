@@ -8,7 +8,6 @@ I am an IT professional fascinated with problem-solving through investigation.
 My interest in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project or Training|
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,8 @@ My interest in computer science has led me to develop a passion for cybersecurit
 | Intro to Computer Science and Python          | Harvard University CS50 provided by EdX|
 | Incident Management as a Security Analyst     | Clicked & IBM Skillsbuild Mini Sprint|
 
-## Tools
+## Education
+Currently completing Bachelor of Cybersecurity at Colorado State University Global with specialization in Cloud Computing and Virtualization.
 
 ### Network
 <div>
@@ -40,10 +40,9 @@ My interest in computer science has led me to develop a passion for cybersecurit
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-PMP%2B-007ACC?&style=for-the-badge&logo=PMI&logoColor=white" />
-<img src="https://img.shields.io/badge/-CC%2B-4D4D4D?&style=for-the-badge&logo=ISC2&logoColor=white" />
-
+<a href="https://www.credly.com/badges/c5744dc1-0bfd-4ea3-95a8-43b0d1b18ba7/public_url" ><img src="https://img.shields.io/badge/-CC-4D4D4D?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/f33f306f-414a-4fc6-a610-1fa2cf5dd130/public_url" ><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/569043bd-cd73-4c82-8439-4ba64c6125ff/public_url" ><img src="https://img.shields.io/badge/-PMP-007ACC?&style=for-the-badge&logo=PMI&logoColor=white" /></a>
 </div>
 
 ## Projects
