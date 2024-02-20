@@ -11,12 +11,12 @@ My interest in computer science has led me to develop a passion for cybersecurit
 
 | Skill                                         | Associated Project or Training|
 |-----------------------------------------------|----------------------------|
-| SOC Core Skills                               | <a href="[https://google.com](https://www.antisyphontraining.com/on-demand-courses/soc-core-skills-w-john-strand/)">Antisyphon Training</a>|
-| Cybersecurity CTF                             | <a href="[https://google.com](https://www.sans.org/mlp/jumpstart-into-cyber/)">SANS Institute Jumpstart into Cybersecurity</a>|
+| SOC Core Skills                               | <a href="https://www.antisyphontraining.com/on-demand-courses/soc-core-skills-w-john-strand/">Antisyphon Training</a>|
+| Cybersecurity CTF                             | <a href="https://www.sans.org/mlp/jumpstart-into-cyber/">SANS Institute Jumpstart into Cybersecurity</a>|
 | Incident Response Lab                         | Live Triage Event with Black Hills Information Security|
 | SOAR Virtual Workshop                         | SOC Automation Lab with Splunk|
 | Intro to Computer Science and Python          | Harvard University CS50 provided by EdX|
-| Incident Management as a Security Analyst     | Clicked & IBM Skillsbuild Mini Sprint|
+| Incident Management as a Security Analyst     | <a href="https://github.com/elleful/Security-Analyst-Incident-Management">Clicked & IBM Skillsbuild Mini Sprint</a>|
 
 ## Education
 Currently completing Bachelor of Cybersecurity at Colorado State University Global with specialization in Cloud Computing and Virtualization.
@@ -46,4 +46,4 @@ Currently completing Bachelor of Cybersecurity at Colorado State University Glob
 </div>
 
 ## Projects
-- Incident Management as a Security Analyst
+- <a href="https://github.com/elleful/Security-Analyst-Incident-Management">Incident Management as a Security Analyst</a>
