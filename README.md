@@ -15,7 +15,7 @@ My interest in computer science has led me to develop a passion for cybersecurit
 | Cybersecurity CTF                             | <a href="https://www.sans.org/mlp/jumpstart-into-cyber/">SANS Institute Jumpstart into Cybersecurity</a>|
 | Incident Response Lab                         | Live Triage Event with Black Hills Information Security|
 | SOAR Virtual Workshop                         | SOC Automation Lab with Splunk|
-| Intro to Computer Science and Python          | Harvard University CS50 provided by EdX|
+| Intro to Computer Science and Python          | <a href= "https://github.com/elleful/Harvard-CS50-with-EdX/blob/main/README.md">Harvard University CS50 provided by EdX</a>|
 | Incident Management as a Security Analyst     | <a href="https://github.com/elleful/Security-Analyst-Incident-Management">Clicked & IBM Skillsbuild Mini Sprint</a>|
 
 ## Education
