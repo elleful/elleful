@@ -47,3 +47,4 @@ Currently completing Bachelor of Cybersecurity at Colorado State University Glob
 
 ## Projects
 - <a href="https://github.com/elleful/Security-Analyst-Incident-Management">Incident Management as a Security Analyst</a>
+- <a href= "https://github.com/elleful/Harvard-CS50-with-EdX/blob/main/README.md">Harvard University CS50 provided by EdX</a>
