@@ -5,7 +5,7 @@ I am an IT professional fascinated with problem-solving through investigation.
 
 ## Objective
 
-My interest in computer science has led me to develop a passion for cybersecurity specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My interest in computer science has led me to develop a passion for cybersecurity.
 
 ## Skills
 
